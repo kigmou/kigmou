@@ -1,9 +1,19 @@
-# Hi, im Bilal ! 
-## Développeur | Computing Science 
-Je suis un jeune développeur passioné par les nouvelles technologies 
-## À propos : 
-Je suis un étudiant en BUT 2ème Informatique à l'IUT Robert Shumann. 
-### Computer Language :
+# Salut, je suis Bilal ! 👋
+
+## Développeur | Sciences Informatiques
+
+Passionné par les nouvelles technologies et le développement, je suis un jeune développeur avec une forte volonté d'apprendre et de créer des solutions innovantes.
+
+### À propos de moi :
+
+Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT Robert Schuman, où j'acquiers des compétences solides en développement logiciel, gestion de projets et technologies modernes. J'adore relever de nouveaux défis techniques et contribuer à des projets collaboratifs.
+
+---
+
+### Technologies & Compétences :
+
+Voici quelques-unes des technologies que j'utilise au quotidien dans mes projets :
+
 <p align="center">
   <img src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" alt="React" />
   <img src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="Github Actions" />
@@ -15,5 +25,5 @@ Je suis un étudiant en BUT 2ème Informatique à l'IUT Robert Shumann.
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-   <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
 </p>
