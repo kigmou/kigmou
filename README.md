@@ -6,7 +6,7 @@ Passionné par les nouvelles technologies et le développement, je suis un jeune
 
 ### À propos de moi :
 
-Je suis actuellement étudiant en deuxième année de BUT Informatique à l'IUT Robert Schuman, où j'acquiers des compétences solides en développement logiciel, gestion de projets et technologies modernes. J'adore relever de nouveaux défis techniques et contribuer à des projets collaboratifs.
+Je suis actuellement étudiant en trosième année de BUT Informatique à l'IUT Robert Schuman, où j'acquiers des compétences solides en développement logiciel, gestion de projets et technologies modernes. J'adore relever de nouveaux défis techniques et contribuer à des projets collaboratifs.
 
 ---
 
